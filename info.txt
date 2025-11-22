@@ -1,2 +1,3 @@
 Autor: Imię Nazwisko
 Kurs: Technologie DevOps
+Kurs: Technologie DevOps
